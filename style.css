@@ -150,7 +150,8 @@ font-size: 35px;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
-
+     height: 750px;
+    
 }
 .box{
     /* border: 2px solid black; */
